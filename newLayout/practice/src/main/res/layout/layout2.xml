@@ -9,9 +9,5 @@
         android:layout_height="30dp"
         android:text="中国科学院大学"
         android:id="@+id/usr1"
-
-        />
-
-
-
+              />
 </RelativeLayout>
